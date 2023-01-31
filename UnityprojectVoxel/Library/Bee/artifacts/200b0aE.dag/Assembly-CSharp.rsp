@@ -376,6 +376,7 @@
 "Assets/Scripts/SimpleCameraController.cs"
 "Assets/_Scripts/MeshData.cs"
 "Assets/_Scripts/RegionData.cs"
+"Assets/_Scripts/RegionRenderer.cs"
 "Assets/_Scripts/TileType.cs"
 "Assets/_Scripts/World.cs"
 -langversion:9.0
